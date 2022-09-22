@@ -1,6 +1,9 @@
 # certificates
 My collection of certificates.
 
-JavaScript Algorithms and Data Structures
---> In progress
+Responsive Web Design Certificate achieved on FreeCodeCamp.com
 
+
+--> In progress
+JavaScript Algorithms and Data Structures
+Frontend Libraries Development

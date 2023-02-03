@@ -1,4 +1,4 @@
-#My collection of certificates
+# My collection of certificates
 
 ## Responsive Web Design Certificate.
 [Link to Certificate](https://www.freecodecamp.org/certification/1306/responsive-web-design "Link to Responsive Web Design Certificate")

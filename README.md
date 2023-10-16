@@ -1,5 +1,12 @@
 # My collection of certificates
 
+## Algorithms and Data Structures Certificate.
+[Link to Certificate](https://www.freecodecamp.org/certification/1306/javascript-algorithms-and-data-structures "Algorithms and Data Structures Certificate")
+
+<img width="1440" alt="screenshot of package tracker app" src="fcc-algorithms-and-data-structures-certificate.png">
+
+> "This certifies that Johan Hellberg has successfully completed the freeCodeCamp.org Algorithms and Data Structures Certification, representing approximately 300 hours of coursework"
+
 ## Responsive Web Design Certificate.
 [Link to Certificate](https://www.freecodecamp.org/certification/1306/responsive-web-design "Link to Responsive Web Design Certificate")
 

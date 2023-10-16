@@ -18,6 +18,6 @@
 <img width="1440" alt="Certificate of graduation for Vue 3 with TypeScript" src="certificate-vue3-TypeScript.jpg">
 
 ### In progress
-- JavaScript Algorithms and Data Structures
 - Frontend Libraries Development
 - Back End Development and APIs
+- Foundational C# with Microsoft

@@ -31,5 +31,4 @@
 
 ### In progress
 - Frontend Libraries Development
-- Back End Development and APIs
 - Foundational C# with Microsoft

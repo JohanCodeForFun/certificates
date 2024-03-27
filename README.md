@@ -26,6 +26,15 @@
 [Link to Certificate](https://www.freecodecamp.org/certification/1306/responsive-web-design "Link to Responsive Web Design Certificate")
 
 
+## Foundational C# with Microsoft Certificate.
+
+<img width="1440" alt="Foundational C# with Microsoft Certificate. from FreeCodeCamp" src="fcc-Foundational-C%23-with-Microsoft.png">
+
+> "This certifies that Johan Hellberg has successfully completed the Foundational C# with Microsoft Certificate through freeCodeCamp.org."
+
+[Link to Certificate](https://www.freecodecamp.org/certification/1306/foundational-c-sharp-with-microsoft "Link to Foundational C# with Microsoft Certificate")
+
+
 ## Certificate of graduation for Vue 3 with TypeScript.
 <img width="1440" alt="Certificate of graduation for Vue 3 with TypeScript" src="certificate-vue3-TypeScript.jpg">
 

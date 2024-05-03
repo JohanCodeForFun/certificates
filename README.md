@@ -1,6 +1,6 @@
 # My collection of certificates
 
-## Foundational C# with Microsoft Certificate.
+## AI - organization, value, and implementation of AI Sweden.
 
 <img width="1440" alt="AI - organization, value, and implementation of AI Sweden." src="AI-Sweden-Johan-Hellberg.png">
 

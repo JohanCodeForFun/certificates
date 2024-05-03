@@ -2,6 +2,14 @@
 
 ## Foundational C# with Microsoft Certificate.
 
+<img width="1440" alt="AI - organization, value, and implementation of AI Sweden." src="AI-Sweden-Johan-Hellberg.png">
+
+> "This certifies that Johan Hellberg has successfully completed AI - organization, value, and implementation of AI Sweden."
+
+[Link to Certificate](https://github.com/JohanCodeForFun/certificates/blob/main/AI-Sweden-Johan-Hellberg.png "AI - organization, value, and implementation of AI Sweden.")
+
+## Foundational C# with Microsoft Certificate.
+
 <img width="1440" alt="Foundational C# with Microsoft Certificate. from FreeCodeCamp" src="fcc-Foundational-C%23-with-Microsoft.png">
 
 > "This certifies that Johan Hellberg has successfully completed the Foundational C# with Microsoft Certificate through freeCodeCamp.org."

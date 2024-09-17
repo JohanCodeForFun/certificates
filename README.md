@@ -6,7 +6,6 @@
 
 > "johan hellberg successfully completed AWS Technical Essentials"
 
-[Link to Certificate](https://github.com/JohanCodeForFun/certificates/blob/main/AWS-Technical-Essentials-Certificate.png "AWS Technical Essentials")
 
 ## AI - organization, value, and implementation of AI Sweden.
 
@@ -14,7 +13,6 @@
 
 > "This certifies that Johan Hellberg has successfully completed AI - organization, value, and implementation of AI Sweden."
 
-[Link to Certificate](https://github.com/JohanCodeForFun/certificates/blob/main/AI-Sweden-Johan-Hellberg.png "AI - organization, value, and implementation of AI Sweden.")
 
 ## Foundational C# with Microsoft Certificate.
 

@@ -1,7 +1,5 @@
 # My collection of certificates
 
-AWS-Technical-Essentials-Certificate.png
-
 ## AWS Technical Essentials
 
 <img width="1440" alt="AWS Technical Essentials" src="AWS-Technical-Essentials-Certificate.png">

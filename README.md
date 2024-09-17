@@ -4,9 +4,9 @@ AWS-Technical-Essentials-Certificate.png
 
 ## AWS Technical Essentials
 
-<img width="1440" alt="AI - organization, value, and implementation of AI Sweden." src="AI-Sweden-Johan-Hellberg.png">
+<img width="1440" alt="AWS Technical Essentials" src="AWS-Technical-Essentials-Certificate.png">
 
-> "This certifies that Johan Hellberg has successfully completed AI - organization, value, and implementation of AI Sweden."
+> "johan hellberg successfully completed AWS Technical Essentials"
 
 [Link to Certificate](https://github.com/JohanCodeForFun/certificates/blob/main/AWS-Technical-Essentials-Certificate.png "AWS Technical Essentials")
 

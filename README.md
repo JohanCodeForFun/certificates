@@ -1,5 +1,15 @@
 # My collection of certificates
 
+AWS-Technical-Essentials-Certificate.png
+
+## AWS Technical Essentials
+
+<img width="1440" alt="AI - organization, value, and implementation of AI Sweden." src="AI-Sweden-Johan-Hellberg.png">
+
+> "This certifies that Johan Hellberg has successfully completed AI - organization, value, and implementation of AI Sweden."
+
+[Link to Certificate](https://github.com/JohanCodeForFun/certificates/blob/main/AWS-Technical-Essentials-Certificate.png "AWS Technical Essentials")
+
 ## AI - organization, value, and implementation of AI Sweden.
 
 <img width="1440" alt="AI - organization, value, and implementation of AI Sweden." src="AI-Sweden-Johan-Hellberg.png">

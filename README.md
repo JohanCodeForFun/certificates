@@ -4,7 +4,7 @@
 
 <img width="1440" alt="Attacking and Defending AWS" src="Attacking-and-Defending-AWS-THM.png">
 
-> "johan hellberg successfully completed Attacking and Defending AWS"
+> "this is to acknowledge that johan hellberg successfully completed Attacking and Defending AWS Learning Path"
 
 ## AWS Certified Cloud Practitioner
 

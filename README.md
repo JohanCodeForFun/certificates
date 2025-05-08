@@ -2,6 +2,18 @@
 
 ## AWS Technical Essentials
 
+<img width="1440" alt="AWS Certified Cloud Practitioner" src="AWS-Certified-Cloud-Practitioner.png">
+
+> "johan hellberg AWS Certified Cloud Practitioner"
+
+## AWS Technical Essentials
+
+<img width="1440" alt="Attacking and Defending AWS" src="Attacking-and-Defending-AWS-THM.png">
+
+> "johan hellberg successfully completed Attacking and Defending AWS"
+
+## AWS Technical Essentials
+
 <img width="1440" alt="AWS Technical Essentials" src="AWS-Technical-Essentials-Certificate.png">
 
 > "johan hellberg successfully completed AWS Technical Essentials"

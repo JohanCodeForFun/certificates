@@ -12,6 +12,12 @@
 
 > "johan hellberg AWS Certified Cloud Practitioner"
 
+## Fullstack JavaScript utvecklare
+
+<img width="1440" alt="Fullstack JavaScript utvecklare examensbevis" src="iths-examensbevis.png">
+
+> "Yrkeshögskoleexamen inriktning JavaScript-utvecklare"
+
 ## AWS Technical Essentials
 
 <img width="1440" alt="AWS Technical Essentials" src="AWS-Technical-Essentials-Certificate.png">

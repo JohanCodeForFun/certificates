@@ -1,5 +1,11 @@
 # My collection of certificates
 
+## Jr Penetration Tester
+
+<img width="1440" alt="Jr Penetration Tester certificate" src="THM-Jr-Penetration-Tester.png">
+
+> "this is to acknowledge that johan hellberg successfully completed Jr Penetration Tester Learning Path"
+
 ## Attacking and Defending AWS
 
 <img width="1440" alt="Attacking and Defending AWS" src="Attacking-and-Defending-AWS-THM.png">
